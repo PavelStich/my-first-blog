@@ -25,7 +25,7 @@ SECRET_KEY = 't^7f8$h@5)&-16(5d@hiao+((*w^4633k^7e8eg7m8u0boxttk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vksenia.pythonanywhere.com',]
+ALLOWED_HOSTS = ['vksenia.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
